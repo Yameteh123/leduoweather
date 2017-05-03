@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\work\android_workspace\LeduoWeather\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85319fa51ebb7b7f599b960fda8ce5fccf8a0a1f">
+        <dex dex="D:\work\android_workspace\LeduoWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_421d2bee895a047c739219988ae2a0b07a8e9389\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yangz\.android\build-cache\95206b357e6395d8e006addcde8b59d649a181cf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ed5d8f90fadbfa1098d859cda836de0dc31d265">
+        <dex dex="D:\work\android_workspace\LeduoWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc7a681eef990a1dccac1ae947f8f3a5cd1af49e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yangz\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\work\android_workspace\LeduoWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_99b24f940410c9020075bd2f6e5cd557ce326a9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\android_workspace\LeduoWeather\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\work\android_workspace\LeduoWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c78ddef855cea1ed5e3851602c09b1058e5789f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yangz\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\work\android_workspace\LeduoWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_107b9afce66ed6b5937f72de3288540b509eb32a\classes.dex" />
+    </item>
+
+</items>
